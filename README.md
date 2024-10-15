@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on Open Source Project
 - 📫 How to reach me rashelsheikh0888@gmail.com
 - 😄 Pronouns: Rashel
-- ⚡ Fun fact: i like bugs
+- ⚡ Fun fact: i like nothing
 
 <!---
 Rashel0888/Rashel0888 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
